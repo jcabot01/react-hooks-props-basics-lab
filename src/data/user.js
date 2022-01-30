@@ -1,6 +1,9 @@
+
+
 const user = {
-  name: "Liza",
-  city: "New York",
+  
+  name: "Jonathan",
+  city: "Houston",
   bio: "I made this!",
   color: "firebrick",
   links: {
@@ -8,5 +11,5 @@ const user = {
     linkedin: "https://www.linkedin.com/in/liza/",
   },
 };
-
+console.log('user: ', user);
 export default user;
